@@ -114,3 +114,17 @@ h1.temp {
     text-align: center;
     font-family: "Courier New", Courier, monospace;
 }
+
+.float {
+    position: absolute;
+    padding: 10px;
+    width: 130px;
+    height: 25px;
+    bottom: 15px;
+    right: 15px;
+    background-color: #000000d0;
+    color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 2px 2px 3px #000;
+}
