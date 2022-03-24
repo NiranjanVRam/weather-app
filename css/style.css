@@ -21,13 +21,13 @@ body {
     color: #fff;
 }
 
-a {
+.bottom_middle a {
     text-decoration: none;
     color: #000;
     font-size: 35px;
 }
 
-a:hover {
+.bottom_middle a:hover {
     color: #fff;
 }
 
@@ -47,7 +47,7 @@ a:hover {
     justify-content: center;
 }
 
-button {
+.search button {
     margin: 0.5em;
     border-radius: 50%;
     border: none;
