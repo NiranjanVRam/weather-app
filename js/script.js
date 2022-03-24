@@ -45,3 +45,7 @@ document.querySelector(".search-bar").addEventListener("keyup", function(event) 
     }
 });
 weather.fetchWeather("New York City");
+
+function myfunction() {
+    location.assign("https://niranjanvram.github.io/contact/")
+}
