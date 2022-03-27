@@ -15,10 +15,12 @@ body {
     position: absolute;
     top: 0;
     left: 16px;
+    font-size: 35px;
 }
 
 .topleft a {
     color: #fff;
+    text-decoration: none;
 }
 
 .bottom_middle a {
